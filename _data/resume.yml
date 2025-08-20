@@ -3,8 +3,8 @@
 
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "你的名字"
-jobtitle: "求职意向" #可空不显示
+name: "我是一个"
+jobtitle: "后端工程师" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -30,7 +30,7 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
+  - title: 大武汉大学
     duration: "2011年x月 - 2015年"
     sub: 地点或学历
     detail: 专业或者简短说明
